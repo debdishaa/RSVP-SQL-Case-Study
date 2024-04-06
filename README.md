@@ -4,7 +4,7 @@
 
 ## Overview
 
-RSVP Movies, an esteemed Indian film production company known for its super-hit movies, is embarking on a groundbreaking project to release a movie aimed at a global audience in 2022. To ensure the success of this venture, they have decided to leverage data analytics, focusing on movie data from the past three years to glean insights that could shape their strategy.
+RSVP Movies, an esteemed Indian film production company known for its super-hit movies, is starting on a project to release a movie aimed at a global audience in 2022. To ensure the success of this venture, they have decided to leverage data analytics, focusing on movie data from the past three years to glean insights that could shape their strategy.
 
 This repository contains the SQL scripts and datasets used in the data analysis process, aiming to provide actionable insights for RSVP Movies' upcoming global project.
 
